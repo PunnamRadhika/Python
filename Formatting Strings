@@ -1,0 +1,2 @@
+s = "My name is {} and I am {} years old.".format("Pinky", 23)
+print(s)
