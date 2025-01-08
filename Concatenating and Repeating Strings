@@ -1,0 +1,8 @@
+s1 = "Python"
+s2 = "language"
+s3 = s1 + " " + s2
+print(s3)
+print(s1*3 )
+
+#output:Python language
+# PythonPythonPython 
