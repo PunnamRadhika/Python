@@ -1,0 +1,10 @@
+s = "Radhika"
+
+# Retrieves characters from index 1 to 3: 'adh'
+print(s[1:4])
+
+# Retrieves characters from beginning to index 2: 'Rad'
+print(s[:3])
+
+# Retrieves characters from index 3 to the end: 'hika'
+print(s[3:])
